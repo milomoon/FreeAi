@@ -3,3 +3,6 @@
 *免费AI搜索：https://sou.ffa.chat
 
 *扫码关注公众号：
+<div align="center">
+ <img src="./公众号二维码.png"></img>
+</div>
