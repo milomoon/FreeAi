@@ -4,5 +4,5 @@
 
 *扫码关注公众号：
 <div align="center">
- <img src="./公众号二维码.png"></img>
+ <img src="./公众号.png"></img>
 </div>
