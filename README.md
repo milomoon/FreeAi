@@ -19,3 +19,6 @@
 </div>
 
 *加群一起探讨
+<div align="center">
+ <img src="./微信图片_20240512173604.png"></img>
+</div>
