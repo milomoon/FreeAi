@@ -1,6 +1,10 @@
 # FreeAi
 *关梯子访问，关梯子访问，关梯子访问！
 
+
+5月18日更新：*新增GPT4o和gemini-1.5-flash-latest
+
+
 *免费白嫖GPT-4和Gemini-1.5-pro 地址：https://ffa.chat
 *免费AI搜索：https://sou.ffa.chat
 
